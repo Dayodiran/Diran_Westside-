@@ -1,5 +1,5 @@
 <?php
 
-echo "Class begins";
+echo "Class begins now";
 
 ?>
