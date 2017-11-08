@@ -1,0 +1,5 @@
+<?php
+
+echo "Class begins";
+
+?>
